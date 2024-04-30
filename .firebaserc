@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rtdb-sensorluz": {
+      "hosting": {
+        "app": [
+          "rtdb-sensorluz"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rtdb-sensorluz"
+  }
+}
